@@ -7,8 +7,13 @@ body {
   text-align: center;
   font-style: italic;
 }
+#heading1 {
+  font: 50px;
+  color: brown;
+  text-align: justify;
+  font-style: italic;
+}
 .texts {
-  text-align: left;
   font-size: 18px;
   margin-left: 850px;
   font-family: sans-serif;
