@@ -1,5 +1,20 @@
+body {
+  background-color: rgb(182, 170, 148);
+}
 #heading {
-  font-size: 60px;
+  font-size: 50px;
   color: brown;
   text-align: center;
+  font-style: italic;
+}
+.texts {
+  text-align: left;
+  font-size: 18px;
+  margin-left: 850px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+mark {
+  color: brown;
+  background-color: wheat;
 }
