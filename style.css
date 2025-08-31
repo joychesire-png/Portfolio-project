@@ -7,12 +7,6 @@ body {
   text-align: center;
   font-style: italic;
 }
-#heading1 {
-  font: 50px;
-  color: brown;
-  text-align: justify;
-  font-style: italic;
-}
 .texts {
   font-size: 18px;
   margin-left: 850px;
@@ -22,4 +16,10 @@ body {
 mark {
   color: brown;
   background-color: wheat;
+}
+.text2 {
+  font-size: 18px;
+  margin-bottom: 500px;
+  font-family: sans-serif;
+  font-weight: bold;
 }
